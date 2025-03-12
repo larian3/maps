@@ -1,0 +1,41 @@
+/* src/App.css */
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #e8f5e9; /* Verde claro */
+  color: #2e7d32; /* Verde escuro */
+  margin: 0;
+  padding: 0;
+  transition: background-color 0.3s;
+}
+
+.main {
+  display: flex;
+  flex-direction: row;
+  padding-top: 64px; /* Espaço para a AppBar */
+}
+
+.mapContainer {
+  height: 500px;
+  width: 70%;
+}
+
+.sidebar {
+  width: 30%;
+  padding: 20px;
+  background-color: #ffffff;
+  border-left: 1px solid #ddd;
+  box-shadow: -2px 0 5px rgba(0,0,0,0.1);
+}
+
+.sidebar h2 {
+  margin-top: 0;
+  color: #388e3c; /* Verde escuro */
+}
+
+.sidebar p {
+  margin: 5px 0;
+}
+
+.sidebar strong {
+  color: #2e7d32; /* Verde escuro */
+}
