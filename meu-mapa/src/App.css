@@ -1,4 +1,3 @@
-/* src/App.css */
 body {
   font-family: 'Roboto', sans-serif;
   background-color: #e8f5e9; /* Verde claro */
@@ -15,8 +14,8 @@ body {
 }
 
 .mapContainer {
-  height: 500px;
-  width: 70%;
+  width: 981px;
+  height: 1024px;
 }
 
 .sidebar {

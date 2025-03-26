@@ -1,4 +1,3 @@
-// src/Mapa.js
 import React from 'react';
 import { MapContainer, TileLayer, GeoJSON } from 'react-leaflet';
 import 'leaflet/dist/leaflet.css';
